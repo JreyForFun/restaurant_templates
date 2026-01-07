@@ -1,1 +1,1 @@
-# restaurant_templates
+# Restaurant Templates
